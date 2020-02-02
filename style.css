@@ -1,0 +1,47 @@
+body {
+	/*background-color: rgb(117, 30, 30);*/
+	/*background-color: rgb(255, 236, 207);*/
+	background-color: rgb(240,240,240);
+	/*color: rgb(25,25,25);*/
+	/*font-family: 'Libre Baskerville', serif;*/
+	font-family: 'Roboto Mono', monospace;
+	font-size: 20px;
+	/*color: rgb(117, 30, 30);*/
+	color: rgb(20,20,20);
+}
+
+h1 {
+	font-size: 60px;
+	font-family: 'Libre Barcode 39 Extended Text', cursive;
+	color: rgb(20,20,20);
+}
+
+#messageElt {
+	/*text-align: center;*/
+	padding: 15px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	height: auto;
+	width: auto;
+	/*border: 2px dashed grey;*/
+	/*border-radius: 8px;*/
+
+}
+
+button {
+	text-decoration: none;
+	/*font-family: monospace;*/
+	/*font-family: 'Libre Baskerville', serif;*/
+	font-family: 'Roboto Mono', monospace;
+	color: rgb(20,20,20);
+	margin-top: 15px;
+	width: 100px;
+	padding: 8px;
+	font-size: 16px;
+	/*border-radius: 8px;*/
+	background-color: rgb(240,240,240);
+}
+
+button:hover {
+	background-color: rgb(160,160,160);
+}
