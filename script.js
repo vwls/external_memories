@@ -6,7 +6,7 @@ const size = 15;
 
 
 const material1 = ["code", "clay", "data", "wood", "plaster", "paper", "pen and ink", "stone", "textiles", "a projector", "pencil", "a screen", "yarn", "blown glass", "broken glass", "e waste", "recycled plastic", "wax", "glue"];
-const adjective = ["interactive", "responsive", "wearable", "interactive"];
+const adjective = ["interactive", "responsive", "wearable", "interactive", "speculative", "speculative"];
 const material2 = ["depth sensors", "pressure sensors", "light sensors", "bio medical sensors", "custom circuits", "LEDs", "a micro computer", "a patch bay", "a rotary phone", "a cash register", "surveillance cameras"];
 const medium = ["sculpture", "drawing", "performance", "web experience", "kinetic sculpture", "installation", "speculative design object", "product", "tool", "book", "machine", "data visualization"];
 const action = ["interogating", "exploring", "questioning", "investigating", "critiquing", "about", "reimagining", "reinterpreting", "rethinking"]; 
