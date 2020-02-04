@@ -5,12 +5,12 @@ const inputNum = "0.0.0.0.0.0"; // e.g. 0.0.0.0.0.0 will return a prompt made up
 const size = 15;
 
 
-const material1 = ["code", "clay", "data", "wood", "plaster", "paper", "pen and ink", "stone", "textiles", "a projector", "a screen", "yarn", "blown glass", "broken glass", "e waste", "recycled plastic", "wax", "glue"];
-const adjective = ["interactive", "responsive", "wearable"];
+const material1 = ["code", "clay", "data", "wood", "plaster", "paper", "pen and ink", "stone", "textiles", "a projector", "pencil", "a screen", "yarn", "blown glass", "broken glass", "e waste", "recycled plastic", "wax", "glue"];
+const adjective = ["interactive", "responsive", "wearable", "interactive"];
 const material2 = ["depth sensors", "pressure sensors", "light sensors", "bio medical sensors", "custom circuits", "LEDs", "a micro computer", "a patch bay", "a rotary phone", "a cash register", "surveillance cameras"];
 const medium = ["sculpture", "drawing", "performance", "web experience", "kinetic sculpture", "installation", "speculative design object", "product", "tool", "book", "machine", "data visualization"];
 const action = ["interogating", "exploring", "questioning", "investigating", "critiquing", "about", "reimagining", "reinterpreting", "rethinking"]; 
-const subject = ["gender in society", "capitalism", "cradle to grave product life cycles", "race in society", "domestic violence", "smart home appliances", "what we mean when we say beauty", "back to the land movements", "discomfort with death", "the limits of what a camera could be", "a potential afterlife", "a world without humans", "urban space", "why we play", "the role of computation in society", "the role of art in society", "climate change", "asymmetrical effects of climate change"];
+const subject = ["the origins of gender in society", "the reproductive aspects of capitalism", "cradle to grave product life cycles", "race in society", "domestic violence", "smart home appliances", "what we mean when we say beauty", "a new back to the land movements", "discomfort with death", "the limits of what a camera could be", "a potential afterlife", "a world without humans", "urban space", "why we play", "the role of computation in society", "the role of art in society", "climate change", "asymmetrical effects of climate change"];
 
 function setup(){
   //createCanvas(1200, 500);
